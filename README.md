@@ -1,1 +1,1 @@
-# webscraper_ratemyprof
+RateMyProf Webscraper
